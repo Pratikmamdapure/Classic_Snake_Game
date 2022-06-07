@@ -1,0 +1,120 @@
+body{
+    padding-top: 0em;
+    /* background-image: url("./cta_alt.png");
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: rgb(36, 212, 57);
+    
+    
+}
+.bottom{
+    display: flex;
+}
+h1{  
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 42px;
+    letter-spacing: 1.6px;
+    word-spacing: -1.6px;
+    /* color: #FFFC29; */
+    color: #cc9900;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 0 0 3px #00ff55;
+
+}
+canvas{
+    margin-left: 33%;
+    /* margin-right: 33%; */
+    display: flex;
+    
+}
+.head{
+   
+    padding-top: 0cm;
+}
+#blink {
+    font-size: 30px;
+    font-weight: bold;
+    color: #0f0f10;
+    transition: 0.1s;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+color: #dfbb43;
+font-weight: 700;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: capitalize;
+text-align: center;
+text-shadow: 0 0 3px #e12323;
+}
+#score {
+    font-size: 40px;
+    font-weight: bold;
+    color: #0f0f10;
+    transition: 0.1s;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+color: #dfbb43;
+font-weight: 700;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: capitalize;
+text-align: center;
+text-shadow: 0 0 3px #e12323;
+}
+img{
+    width: 65%;
+    height: auto;
+}
+.home{
+    margin-left: 5%;
+    display: flex;
+}
+.play_button{
+    margin-top: 80px;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column
+}
+
+.button {
+    background-color: #cc9900; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-top: 15px;
+
+  }
+  .button1 {
+    
+    background-color: #cc9900; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    
+  }
+  
+  .button1:hover {
+    
+    color: rgb(36, 212, 57);
+  }
+
