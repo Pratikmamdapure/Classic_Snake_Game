@@ -18,7 +18,7 @@
     
     <img src="./cta_alt.png">
     <div class="play_button">
-    <button class="button button1" onclick="window.location.href='game.php';">Play</button>
+    <button class="button button1" onclick="window.location.href='game.html';">Play</button>
     <button class="button button1">More Games</button>
     </div>
 </div>
